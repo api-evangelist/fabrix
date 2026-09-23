@@ -1,0 +1,33 @@
+# Front Door AI Index — fabrix — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: fabrix
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: fabrix.security
+  final_host: fabrix.security
+  ownership: own
+  owner: fabrix
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 26
+  host_score: 26
+  density: 23.59
+  words: 1102
+  tiers:
+    agentic: 6
+    core: 20
+    model: 0
+  ambiguous: 20
+  top_terms:
+    AI: 18
+    agent: 13
+    intelligence: 4
+    AI agent: 3
+    automation: 3
+    agentic: 2
+    LLMs: 1
+    gen ai: 1
+    prompts: 1
